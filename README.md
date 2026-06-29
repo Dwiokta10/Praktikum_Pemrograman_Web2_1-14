@@ -173,4 +173,4 @@ Aplikasi *Frontend* mandiri dibangun menggunakan **VueJS 3** dan **Vue Router** 
 *   **Client-Side (VueJS):** *Axios Interceptors* diimplementasikan pada `app.js` untuk secara otomatis menyematkan Token dari `localStorage` ke setiap *request* HTTP. Interceptor ini juga menangkap error `401` secara global dan otomatis mengarahkan pengguna kembali ke halaman login jika token telah kadaluarsa.
 
 
-Terima Kasih
+# Terima Kasih
