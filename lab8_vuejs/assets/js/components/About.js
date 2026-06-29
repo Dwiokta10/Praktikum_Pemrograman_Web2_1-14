@@ -3,10 +3,10 @@ const About = {
         <div class="home-container" style="text-align: center;">
             <h2>Tentang Saya</h2>
             
-            <img src="assets/img/profil.jpg" alt="Foto Profil Fitri" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #3152d6; margin-bottom: 15px;">
+            <img src="assets/img/profil.jpg" alt="Foto Profil Dwi Okta" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #3152d6; margin-bottom: 15px;">
             
-            <p><strong>Nama:</strong> Fitri Ramadhani</p>
-            <p><strong>NIM:</strong> 312410085</p>
+            <p><strong>Nama:</strong> Dwi Okta</p>
+            <p><strong>NIM:</strong> 312410056</p>
             <p><strong>Kelas:</strong> I241A</p>
             <p><strong>Program Studi:</strong> Teknik Informatika</p>
             <p><strong>Kampus:</strong> Universitas Pelita Bangsa</p>
