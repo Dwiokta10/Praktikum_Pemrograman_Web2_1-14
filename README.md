@@ -3,6 +3,15 @@
 # Laporan Praktikum Pemrograman Web 2
 ### Lab 7: Pengembangan Portal Berita dengan CodeIgniter 4 & Vue.js
 
+
+| **Keterangan** | **Informasi** |
+|:---------------|:--------------|
+| 👤 **Nama** | Dwi Okta Ramadhani |
+| 🆔 **NIM** | 312410056 |
+| 🏫 **Kelas** | TI.24.1A |
+| 📚 **Mata Kuliah** | Pemrograman Web 2 |
+| 📝 **Praktikum 1-4** | https://github.com/Dwiokta10/lab11_ci-Pemrograman-Web-2 |
+
 Selamat datang di repositori proyek Pemrograman Web 2! Repositori ini merupakan dokumentasi komprehensif dari proses pembelajaran dan pengembangan aplikasi web modern berbasis *Single Page Application* (SPA). 
 
 Proyek ini berfokus pada pembangunan sistem *Content Management System* (CMS) sederhana untuk Portal Berita yang mengimplementasikan arsitektur *decoupled* (pemisahan sistem). Di sisi *backend*, **CodeIgniter 4** digunakan untuk membangun RESTful API yang tangguh dan aman dengan perlindungan *Token-Based Authentication*. Sementara di sisi *frontend*, **Vue.js 3** dimanfaatkan untuk menciptakan antarmuka pengguna yang reaktif dan asinkron dengan dukungan integrasi *AJAX* serta *Axios Interceptors*.
@@ -13,12 +22,6 @@ Melalui 14 tahap praktikum yang terangkum di bawah ini, proyek ini mendemonstras
 
 ---
 
-
-| | |
-| :--- | :--- |
-| **Nama** | Dwi Okta Ramadhani |
-| **NIM** | 312410056 |
-| **Kelas** | I.24.1A |
 
 > **Kredensial Login Admin:**
 > *   **Email/Username:** `admin` atau `admin@email.com`
