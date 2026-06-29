@@ -10,15 +10,9 @@ Proyek ini menghubungkan backend CodeIgniter 4 dengan frontend Vue.js untuk memb
 ### 👨‍💻 Informasi Mahasiswa
 | Identitas | Keterangan |
 | :--- | :--- |
-| **Nama** | Ro'uf Muhammad Fauzan |
-| **NIM** | 312410157 |
+| **Nama** | Dwi Okta Ramadhani|
+| **NIM** | 312410056 |
 | **Kelas** | I.24.1A |
-| **Demo** | [Link Demo](https://praktikumterakhir.infinityfreeapp.com/#/) |
-| **Vidio penjelasan**| [Link Vidio Youtube](https://youtu.be/pK2RxvV5LtE) |
-
-**Live Preview / Demo Aplikasi:**
-- **URL Frontend (Admin Panel):** [http://praktikumterakhir.infinityfreeapp.com/#/](http://praktikumterakhir.infinityfreeapp.com/#/)
-- **URL Frontend (User/Publik):** [http://praktikumterakhir.infinityfreeapp.com/backend/public/artikel](http://praktikumterakhir.infinityfreeapp.com/backend/public/artikel)
 
 **Kredensial Login Admin:**
 - **Email/Username:** `admin` atau `admin@email.com`
