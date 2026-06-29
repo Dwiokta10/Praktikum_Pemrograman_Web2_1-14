@@ -44,15 +44,6 @@ Melalui 14 tahap praktikum yang terangkum di bawah ini, proyek ini mendemonstras
 
 ---
 
-## 📸 Dokumentasi Antarmuka (CodeIgniter 4)
-
-<div align="center">
-  <img width="700" alt="Tampilan 1" src="https://github.com/user-attachments/assets/b3916d27-d200-474e-8d59-5e1b29bb5b04" style="margin-bottom: 10px;" />
-  <img width="700" alt="Tampilan 2" src="https://github.com/user-attachments/assets/89187b91-dc03-40d0-a20b-8ac9425623c8" style="margin-bottom: 10px;" />
-  <img width="700" alt="Tampilan 3" src="https://github.com/user-attachments/assets/ad30e789-3dad-4e75-ae52-60631013b31a" />
-</div>
-
----
 
 ## Praktikum 1: PHP Framework (CodeIgniter)
 
